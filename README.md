@@ -1,0 +1,1 @@
+# quadtree-spatial-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 quadtree_spatial.py\n```\n
